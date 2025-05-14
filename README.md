@@ -1,4 +1,4 @@
-*Booking.com Clone*
+# Booking.com Clone 
 
 **About This Project (Intro)**
 
