@@ -41,8 +41,8 @@ Follow these steps to get the project up and running locally:
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/your-username/your-nextjs-repo.git
-    cd your-nextjs-repo
+    git clone https://github.com/nickrogerson1/booking-com-clone.git
+    cd booking-com-clone
     ```
 
 2. **Install dependencies:**
