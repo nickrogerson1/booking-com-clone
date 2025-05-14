@@ -1,14 +1,14 @@
 # Booking.com Clone 
 
-**About This Project (Intro)**
+## About This Project (Intro)
 
 This is a very small Booking.com clone which has a homepage and a search page. The UI has been fleshed out but no additional pages have been added. The user can start their search from the homepage, the results are then scraped from Booking.com and displayed on a separate search page.
 
-**What it was built with / Tech Stack**
+### What it was built with / Tech Stack
 
 This app was built with React 19, Next.js 15 and Typescript for additional error checking. Tailwind CSS was also used for a better developer experience and to reduce the amount of CSS served at production. Shadcn was used for creating generic components alongwith with Heroicons and Zod forms.
 
-**Key Features**
+#### Key Features
 
 -   A beautiful initial search page which is somewhat similar to Booking.com.
 -   Users can search by location, length of stay and number of people.
